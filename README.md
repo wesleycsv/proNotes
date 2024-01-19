@@ -2,6 +2,8 @@
 
 Sistema de notas para organiza sua vida, suas informações em um só lugar. 
 
+![enter image description here](https://github.com/wesleycsv/proNotes-API/blob/main/print.png?raw=true)
+
 ## Tecnologias
 * HTML
 * CSS
@@ -19,5 +21,3 @@ Sistema de notas para organiza sua vida, suas informações em um só lugar.
 * jwt
 * express
 * cors
-
-![enter image description here](https://github.com/wesleycsv/proNotes-API/blob/main/print.png?raw=true)

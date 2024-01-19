@@ -34,3 +34,7 @@ Instale o mongoDB e crie um Database evernote e depois 2 Collection com o nome d
 ```sh
 yarn dev
 ```
+
+## Rotas da API
+
+

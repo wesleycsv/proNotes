@@ -36,5 +36,5 @@ yarn dev
 ```
 
 ## Rotas da API
-
+![enter image description here](https://github.com/wesleycsv/proNotes-API/blob/main/print%20rotas.png?raw=true)
 
